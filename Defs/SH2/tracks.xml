@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>SH2_001</defName>
+    <label>Silent Hill 2- Begin Nightmare</label>
+    <clipPath>MusicExpanded/SH2/1.00 - Begin Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_002</defName>
+    <label>Silent Hill 2- Mirrored Guilt</label>
+    <clipPath>MusicExpanded/SH2/1.01 - Mirrored Guilt</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_003</defName>
+    <label>Silent Hill 2- Mary’s Invitation</label>
+    <clipPath>MusicExpanded/SH2/1.02 - Marys Invitation</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_004</defName>
+    <label>Silent Hill 2- Wishful Thinking</label>
+    <clipPath>MusicExpanded/SH2/1.03 - Wishful Thinking</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>TwistedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_005</defName>
+    <label>Silent Hill 2- The Forest Trail</label>
+    <clipPath>MusicExpanded/SH2/1.04 - The Forest Trail</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>SmallShamblerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_006</defName>
+    <label>Silent Hill 2- Looking for Mommy</label>
+    <clipPath>MusicExpanded/SH2/1.05 - Looking for Mommy</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_007</defName>
+    <label>Silent Hill 2- Toluca Graveyard</label>
+    <clipPath>MusicExpanded/SH2/1.06 - Toluca Graveyard</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_008</defName>
+    <label>Silent Hill 2- Lurking in the Fog</label>
+    <clipPath>MusicExpanded/SH2/1.07 - Lurking in the Fog</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>ShamblerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_009</defName>
+    <label>Silent Hill 2- Mansion Horrors</label>
+    <clipPath>MusicExpanded/SH2/2.00 - Mansion Horrors</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>UnnaturalDarkness</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_010</defName>
+    <label>Silent Hill 2- The Stairwell</label>
+    <clipPath>MusicExpanded/SH2/2.01 - The Stairwell</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>SightstealerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_011</defName>
+    <label>Silent Hill 2- Ominous Hallway</label>
+    <clipPath>MusicExpanded/SH2/2.02 - Ominous Hallway</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>SightstealerArrival</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_012</defName>
+    <label>Silent Hill 2- Butterflies &amp; Secrets</label>
+    <clipPath>MusicExpanded/SH2/2.03 - Butterflies &amp; Secrets</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>DistressCall</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_013</defName>
+    <label>Silent Hill 2- The 3rd Floor</label>
+    <clipPath>MusicExpanded/SH2/2.04 - The 3rd Floor</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_014</defName>
+    <label>Silent Hill 2- Executioner’s Handywork</label>
+    <clipPath>MusicExpanded/SH2/2.05 - Executioners Handywork</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>ChimeraAssault</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_015</defName>
+    <label>Silent Hill 2- Meeting Eddie</label>
+    <clipPath>MusicExpanded/SH2/2.06 - Meeting Eddie</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>HateChanters</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_016</defName>
+    <label>Silent Hill 2- b – Meeting Eddie (in-game)</label>
+    <clipPath>MusicExpanded/SH2/2.06b - Meeting Eddie (in-game)</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>Revenant</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_017</defName>
+    <label>Silent Hill 2- No (Fire) Escape</label>
+    <clipPath>MusicExpanded/SH2/2.07 - No (Fire) Escape</clipPath>
+    <cue>Custom,BattleLarge</cue>
+    <cueData>DevourerAssault</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_018</defName>
+    <label>Silent Hill 2- Puzzles, Ashes, &amp; Ghosts</label>
+    <clipPath>MusicExpanded/SH2/2.08 - Puzzles, Ashes, &amp; Ghosts</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>FleshbeastAttack</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_019</defName>
+    <label>Silent Hill 2- Lost Innocence</label>
+    <clipPath>MusicExpanded/SH2/2.09 - Lost Innocence</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>DeathPall</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_020</defName>
+    <label>Silent Hill 2- b – Lost Innocence (in-game)</label>
+    <clipPath>MusicExpanded/SH2/2.09b - Lost Innocence (in-game)</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_021</defName>
+    <label>Silent Hill 2- Pyramid Head’s Lair</label>
+    <clipPath>MusicExpanded/SH2/2.10 - Pyramid Heads Lair</clipPath>
+    <cue>BattleMedium</cue>
+    <cueData>GorehulkAssault</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_022</defName>
+    <label>Silent Hill 2- Combing Town West</label>
+    <clipPath>MusicExpanded/SH2/3.01 - Combing Town West</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_023</defName>
+    <label>Silent Hill 2- Mary’s Twin</label>
+    <clipPath>MusicExpanded/SH2/3.02 - Marys Twin</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_024</defName>
+    <label>Silent Hill 2- Pizza &amp; Bowling</label>
+    <clipPath>MusicExpanded/SH2/3.03 - Pizza &amp; Bowling</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_025</defName>
+    <label>Silent Hill 2- b – Pizza &amp; Bowling (in-game)</label>
+    <clipPath>MusicExpanded/SH2/3.03b - Pizza &amp; Bowling (in-game)</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_026</defName>
+    <label>Silent Hill 2- Heaven’s Night</label>
+    <clipPath>MusicExpanded/SH2/3.04 - Heavens Night</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>ShamblerAssault</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_027</defName>
+    <label>Silent Hill 2- b – Heaven’s Night (in-game)</label>
+    <clipPath>MusicExpanded/SH2/3.04b - Heavens Night (in-game)</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>DevourerWaterAssault</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_028</defName>
+    <label>Silent Hill 2- Brookhaven Insanity</label>
+    <clipPath>MusicExpanded/SH2/4.01 - Brookhaven Insanity</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>CorruptedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_029</defName>
+    <label>Silent Hill 2- Nurse Piper</label>
+    <clipPath>MusicExpanded/SH2/4.02 - Nurse Piper</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>ShamblerSwarmAnimals</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_030</defName>
+    <label>Silent Hill 2- Laura</label>
+    <clipPath>MusicExpanded/SH2/4.03 - Laura</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>MetalHorrorImplantation</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_031</defName>
+    <label>Silent Hill 2- Bed-Head</label>
+    <clipPath>MusicExpanded/SH2/4.04 - Bed-Head</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_032</defName>
+    <label>Silent Hill 2- Nightmarehaven</label>
+    <clipPath>MusicExpanded/SH2/4.05 - Nightmarehaven</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_033</defName>
+    <label>Silent Hill 2- Hospital Predators</label>
+    <clipPath>MusicExpanded/SH2/4.06 - Hospital Predators</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_034</defName>
+    <label>Silent Hill 2- Running the Gantlet</label>
+    <clipPath>MusicExpanded/SH2/4.07 - Running the Gantlet</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_035</defName>
+    <label>Silent Hill 2- Failing Maria</label>
+    <clipPath>MusicExpanded/SH2/4.08 - Failing Maria</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_036</defName>
+    <label>Silent Hill 2- The Tunnel Beckons</label>
+    <clipPath>MusicExpanded/SH2/5.01 - The Tunnel Beckons</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>MysteriousCargoRevenantSpine</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_037</defName>
+    <label>Silent Hill 2- Prison of the Mind (Pt.1)</label>
+    <clipPath>MusicExpanded/SH2/5.02 - Prison of the Mind (Pt.1)</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>MysteriousCargoUnnaturalCorpse</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_038</defName>
+    <label>Silent Hill 2- The 1st Hole</label>
+    <clipPath>MusicExpanded/SH2/5.03 - The 1st Hole</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>PitGate</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_039</defName>
+    <label>Silent Hill 2- Prison of the Mind (Pt.2)</label>
+    <clipPath>MusicExpanded/SH2/5.04 - Prison of the Mind (Pt.2)</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>MysteriousCargoGoldenCube</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_040</defName>
+    <label>Silent Hill 2- The 2nd Hole</label>
+    <clipPath>MusicExpanded/SH2/5.05 - The 2nd Hole</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>FleshmassHeart</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_041</defName>
+    <label>Silent Hill 2- Toluca Prison</label>
+    <clipPath>MusicExpanded/SH2/5.06 - Toluca Prison</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_042</defName>
+    <label>Silent Hill 2- The 3rd Hole</label>
+    <clipPath>MusicExpanded/SH2/5.07 - The 3rd Hole</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>FrenziedAnimals</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_043</defName>
+    <label>Silent Hill 2- The Prison Basement</label>
+    <clipPath>MusicExpanded/SH2/5.08 - The Prison Basement</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_044</defName>
+    <label>Silent Hill 2- The 4th Hole</label>
+    <clipPath>MusicExpanded/SH2/5.09 - The 4th Hole</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_045</defName>
+    <label>Silent Hill 2- Tormented Soul</label>
+    <clipPath>MusicExpanded/SH2/5.10 - Tormented Soul</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_046</defName>
+    <label>Silent Hill 2- The 5th Hole</label>
+    <clipPath>MusicExpanded/SH2/5.11 - The 5th Hole</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>WarpedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_047</defName>
+    <label>Silent Hill 2- The Labyrinth</label>
+    <clipPath>MusicExpanded/SH2/5.12 - The Labyrinth</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Nociosphere</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_048</defName>
+    <label>Silent Hill 2- Daddy’s Revenge</label>
+    <clipPath>MusicExpanded/SH2/5.13 - Daddys Revenge</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_049</defName>
+    <label>Silent Hill 2- Failing Maria Again</label>
+    <clipPath>MusicExpanded/SH2/5.14 - Failing Maria Again</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_050</defName>
+    <label>Silent Hill 2- Dueling with Eddie</label>
+    <clipPath>MusicExpanded/SH2/5.15 - Dueling with Eddie</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_051</defName>
+    <label>Silent Hill 2- Toluca Lake</label>
+    <clipPath>MusicExpanded/SH2/6.01 - Toluca Lake</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_052</defName>
+    <label>Silent Hill 2- Lakeview Hotel</label>
+    <clipPath>MusicExpanded/SH2/6.02 - Lakeview Hotel</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_053</defName>
+    <label>Silent Hill 2- Laura Plays the Piano</label>
+    <clipPath>MusicExpanded/SH2/6.03 - Laura Plays the Piano</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_054</defName>
+    <label>Silent Hill 2- Music Box Melody</label>
+    <clipPath>MusicExpanded/SH2/6.04 - Music Box Melody</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_055</defName>
+    <label>Silent Hill 2- True</label>
+    <clipPath>MusicExpanded/SH2/6.05 - True</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>FleshmassHeart</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_056</defName>
+    <label>Silent Hill 2- Ashes and Tears</label>
+    <clipPath>MusicExpanded/SH2/6.06 - Ashes and Tears</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_057</defName>
+    <label>Silent Hill 2- Basement Dwellers</label>
+    <clipPath>MusicExpanded/SH2/6.07 - Basement Dwellers</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_058</defName>
+    <label>Silent Hill 2- Angela’s Hell</label>
+    <clipPath>MusicExpanded/SH2/6.08 - Angelas Hell</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_059</defName>
+    <label>Silent Hill 2- Warped Heart</label>
+    <clipPath>MusicExpanded/SH2/6.09 - Warped Heart</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>WarpedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_060</defName>
+    <label>Silent Hill 2- Forced Attrition</label>
+    <clipPath>MusicExpanded/SH2/6.10 - Forced Attrition</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>FrenziedAnimals</cueData>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_061</defName>
+    <label>Silent Hill 2- Confronting the Beast</label>
+    <clipPath>MusicExpanded/SH2/7.01 - Confronting the Beast</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_062</defName>
+    <label>Silent Hill 2- Peace &amp; Serenity</label>
+    <clipPath>MusicExpanded/SH2/7.02 - Peace &amp; Serenity</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_063</defName>
+    <label>Silent Hill 2- Pianissimo Epilogue</label>
+    <clipPath>MusicExpanded/SH2/7.03 - Pianissimo Epilogue</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_064</defName>
+    <label>Silent Hill 2- Save Me</label>
+    <clipPath>MusicExpanded/SH2/7.04 - Save Me</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_065</defName>
+    <label>Silent Hill 2- Theme of Silent Hill 2</label>
+    <clipPath>MusicExpanded/SH2/8.01 - Theme of Silent Hill 2</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_066</defName>
+    <label>Silent Hill 2- Leave Ending</label>
+    <clipPath>MusicExpanded/SH2/8.02 - Leave Ending</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_067</defName>
+    <label>Silent Hill 2- Maria Ending</label>
+    <clipPath>MusicExpanded/SH2/8.03 - Maria Ending</clipPath>
+    <cue>BattleLarge,Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_068</defName>
+    <label>Silent Hill 2- In Water Ending</label>
+    <clipPath>MusicExpanded/SH2/8.04 - In Water Ending</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_069</defName>
+    <label>Silent Hill 2- Rebirth Ending</label>
+    <clipPath>MusicExpanded/SH2/8.05 - Rebirth Ending</clipPath>
+    <cue>BattleLegendary,Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_070</defName>
+    <label>Silent Hill 2- Wish Ending (part 1)</label>
+    <clipPath>MusicExpanded/SH2/8.06 - Wish Ending (part 1)</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_071</defName>
+    <label>Silent Hill 2- Wish Ending (part 2)</label>
+    <clipPath>MusicExpanded/SH2/8.07 - Wish Ending (part 2)</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_072</defName>
+    <label>Silent Hill 2- UFO Ending</label>
+    <clipPath>MusicExpanded/SH2/8.08 - UFO Ending</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <MusicExpanded.TrackDef>
+    <defName>SH2_073</defName>
+    <label>Silent Hill 2- Dog Ending</label>
+    <clipPath>MusicExpanded/SH2/8.09 - Dog Ending</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+</Defs>

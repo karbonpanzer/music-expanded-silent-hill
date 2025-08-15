@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_001</defName>
+    <label>Silent Hill 3- Theme of Silent Hill 3</label>
+    <clipPath>MusicExpanded/SH3/1.01 - Theme of Silent Hill 3</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_002</defName>
+    <label>Silent Hill 3- Title Screen</label>
+    <clipPath>MusicExpanded/SH3/1.02 - Title Screen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_003</defName>
+    <label>Silent Hill 3- Save Screen</label>
+    <clipPath>MusicExpanded/SH3/1.03 - Save Screen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_004</defName>
+    <label>Silent Hill 3- Begin Nightmare</label>
+    <clipPath>MusicExpanded/SH3/1.04 - Begin Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_005</defName>
+    <label>Silent Hill 3- Wicked Horse</label>
+    <clipPath>MusicExpanded/SH3/1.05 - Wicked Horse</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_006</defName>
+    <label>Silent Hill 3- The Nightmare to Come</label>
+    <clipPath>MusicExpanded/SH3/1.06 - The Nightmare to Come</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_007</defName>
+    <label>Silent Hill 3- Ditching the Detective</label>
+    <clipPath>MusicExpanded/SH3/2.01 - Ditching the Detective</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_008</defName>
+    <label>Silent Hill 3- The Witnesses Arrive</label>
+    <clipPath>MusicExpanded/SH3/2.02 - The Witnesses Arrive</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_009</defName>
+    <label>Silent Hill 3- Death</label>
+    <clipPath>MusicExpanded/SH3/2.03 - Death</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_010</defName>
+    <label>Silent Hill 3- The Calling</label>
+    <clipPath>MusicExpanded/SH3/2.04 - The Calling</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_011</defName>
+    <label>Silent Hill 3- Mall Nightmare (Floor 1)</label>
+    <clipPath>MusicExpanded/SH3/2.05 - Mall Nightmare (Floor 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_012</defName>
+    <label>Silent Hill 3- Mall Nightmare (Floor 2)</label>
+    <clipPath>MusicExpanded/SH3/2.06 - Mall Nightmare (Floor 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_013</defName>
+    <label>Silent Hill 3- Lair of the Black Worm</label>
+    <clipPath>MusicExpanded/SH3/2.07 - Lair of the Black Worm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_014</defName>
+    <label>Silent Hill 3- Something Long Forgotten</label>
+    <clipPath>MusicExpanded/SH3/2.08 - Something Long Forgotten</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_015</defName>
+    <label>Silent Hill 3- Subway Trouble</label>
+    <clipPath>MusicExpanded/SH3/2.09 - Subway Trouble</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_016</defName>
+    <label>Silent Hill 3- Terror in the Tunnels</label>
+    <clipPath>MusicExpanded/SH3/3.01 - Terror in the Tunnels</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_017</defName>
+    <label>Silent Hill 3- Tunnel Ambience</label>
+    <clipPath>MusicExpanded/SH3/3.02 - Tunnel Ambience</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_018</defName>
+    <label>Silent Hill 3- Infested Sewer</label>
+    <clipPath>MusicExpanded/SH3/3.03 - Infested Sewer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_019</defName>
+    <label>Silent Hill 3- Office Horrors</label>
+    <clipPath>MusicExpanded/SH3/4.01 - Office Horrors</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_020</defName>
+    <label>Silent Hill 3- Office Nightmare</label>
+    <clipPath>MusicExpanded/SH3/4.02 - Office Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_021</defName>
+    <label>Silent Hill 3- Meeting Vincent</label>
+    <clipPath>MusicExpanded/SH3/4.03 - Meeting Vincent</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_022</defName>
+    <label>Silent Hill 3- Monster at the Gate</label>
+    <clipPath>MusicExpanded/SH3/4.04 - Monster at the Gate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_023</defName>
+    <label>Silent Hill 3- A Sad Return Home</label>
+    <clipPath>MusicExpanded/SH3/5.01 - A Sad Return Home</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_024</defName>
+    <label>Silent Hill 3- Battle on the Rooftop</label>
+    <clipPath>MusicExpanded/SH3/5.02 - Battle on the Rooftop</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_025</defName>
+    <label>Silent Hill 3- Bitter Tears</label>
+    <clipPath>MusicExpanded/SH3/5.03 - Bitter Tears</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_026</defName>
+    <label>Silent Hill 3- A Will for Revenge</label>
+    <clipPath>MusicExpanded/SH3/5.04 - A Will for Revenge</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_027</defName>
+    <label>Silent Hill 3- Letter ~ from the Lost Days</label>
+    <clipPath>MusicExpanded/SH3/5.05 - Letter ~ from the Lost Days</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_028</defName>
+    <label>Silent Hill 3- Planning at the Motel</label>
+    <clipPath>MusicExpanded/SH3/5.06 - Planning at the Motel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_029</defName>
+    <label>Silent Hill 3- Town West</label>
+    <clipPath>MusicExpanded/SH3/6.01 - Town West</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_030</defName>
+    <label>Silent Hill 3- Return to Brookhaven</label>
+    <clipPath>MusicExpanded/SH3/6.02 - Return to Brookhaven</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_031</defName>
+    <label>Silent Hill 3- A Call From Leonard</label>
+    <clipPath>MusicExpanded/SH3/6.03 - A Call From Leonard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_032</defName>
+    <label>Silent Hill 3- Bloody Hallways</label>
+    <clipPath>MusicExpanded/SH3/6.04 - Bloody Hallways</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_033</defName>
+    <label>Silent Hill 3- Kill Leonard</label>
+    <clipPath>MusicExpanded/SH3/6.05 - Kill Leonard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_034</defName>
+    <label>Silent Hill 3- Leonards Seal</label>
+    <clipPath>MusicExpanded/SH3/6.06 - Leonards Seal</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_035</defName>
+    <label>Silent Hill 3- Uninvited Guests</label>
+    <clipPath>MusicExpanded/SH3/6.07 - Uninvited Guests</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_036</defName>
+    <label>Silent Hill 3- Disruption of Order</label>
+    <clipPath>MusicExpanded/SH3/6.08 - Disruption of Order</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_037</defName>
+    <label>Silent Hill 3- Ringing of Chaos Bells</label>
+    <clipPath>MusicExpanded/SH3/6.09 - Ringing of Chaos Bells</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_038</defName>
+    <label>Silent Hill 3- The Real Nightmare</label>
+    <clipPath>MusicExpanded/SH3/7.01 - The Real Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_039</defName>
+    <label>Silent Hill 3- Lost Carol (Long Version)</label>
+    <clipPath>MusicExpanded/SH3/7.02 - Lost Carol (Long Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_040</defName>
+    <label>Silent Hill 3- Borley Haunted Mansion</label>
+    <clipPath>MusicExpanded/SH3/7.03 - Borley Haunted Mansion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_041</defName>
+    <label>Silent Hill 3- I Want Love</label>
+    <clipPath>MusicExpanded/SH3/7.04 - I Want Love</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_042</defName>
+    <label>Silent Hill 3- Ghostly Amusement Park</label>
+    <clipPath>MusicExpanded/SH3/7.05 - Ghostly Amusement Park</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_043</defName>
+    <label>Silent Hill 3- Fair Game</label>
+    <clipPath>MusicExpanded/SH3/7.06 - Fair Game</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_044</defName>
+    <label>Silent Hill 3- Carousel of Death</label>
+    <clipPath>MusicExpanded/SH3/7.07 - Carousel of Death</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_045</defName>
+    <label>Silent Hill 3- Meet Yourself</label>
+    <clipPath>MusicExpanded/SH3/7.08 - Meet Yourself</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_046</defName>
+    <label>Silent Hill 3- Fight Yourself</label>
+    <clipPath>MusicExpanded/SH3/7.09 - Fight Yourself</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_047</defName>
+    <label>Silent Hill 3- Clockwork Little Happiness</label>
+    <clipPath>MusicExpanded/SH3/8.01 - Clockwork Little Happiness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_048</defName>
+    <label>Silent Hill 3- The Dirty Lift</label>
+    <clipPath>MusicExpanded/SH3/8.02 - The Dirty Lift</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_049</defName>
+    <label>Silent Hill 3- Vincent the Pest</label>
+    <clipPath>MusicExpanded/SH3/8.03 - Vincent the Pest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_050</defName>
+    <label>Silent Hill 3- Dimented Passages</label>
+    <clipPath>MusicExpanded/SH3/8.04 - Dimented Passages</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_051</defName>
+    <label>Silent Hill 3- Beyond Alessas Door</label>
+    <clipPath>MusicExpanded/SH3/8.05 - Beyond Alessas Door</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_052</defName>
+    <label>Silent Hill 3- Innocent Moon (Sky Edition)</label>
+    <clipPath>MusicExpanded/SH3/8.06 - Innocent Moon (Sky Edition)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_053</defName>
+    <label>Silent Hill 3- Claudias Sacrifice</label>
+    <clipPath>MusicExpanded/SH3/8.07 - Claudias Sacrifice</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_054</defName>
+    <label>Silent Hill 3- Uneternal Sleep</label>
+    <clipPath>MusicExpanded/SH3/8.08 - Uneternal Sleep</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_055</defName>
+    <label>Silent Hill 3- The Final Battle</label>
+    <clipPath>MusicExpanded/SH3/8.09 - The Final Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_056</defName>
+    <label>Silent Hill 3- Memory of the Waters</label>
+    <clipPath>MusicExpanded/SH3/8.10 - Memory of the Waters</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_057</defName>
+    <label>Silent Hill 3- Cheryl the Blonde</label>
+    <clipPath>MusicExpanded/SH3/8.11 - Cheryl the Blonde</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_058</defName>
+    <label>Silent Hill 3- Hometown</label>
+    <clipPath>MusicExpanded/SH3/8.12 - Hometown</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_059</defName>
+    <label>Silent Hill 3- Results</label>
+    <clipPath>MusicExpanded/SH3/8.13 - Results</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_060</defName>
+    <label>Silent Hill 3- Casual Background</label>
+    <clipPath>MusicExpanded/SH3/8.14 - Casual Background</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_061</defName>
+    <label>Silent Hill 3- Rain of Brass Petals (Extended)</label>
+    <clipPath>MusicExpanded/SH3/9.01 - Rain of Brass Petals (Extended)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_062</defName>
+    <label>Silent Hill 3- No Excuses</label>
+    <clipPath>MusicExpanded/SH3/9.02 - No Excuses</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_063</defName>
+    <label>Silent Hill 3- Ive Been Losing You</label>
+    <clipPath>MusicExpanded/SH3/9.03 - Ive Been Losing You</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_064</defName>
+    <label>Silent Hill 3- All Screwed Up</label>
+    <clipPath>MusicExpanded/SH3/9.04 - All Screwed Up</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_065</defName>
+    <label>Silent Hill 3- Dance Girl Dance</label>
+    <clipPath>MusicExpanded/SH3/9.05 - Dance Girl Dance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH3_066</defName>
+    <label>Silent Hill 3- Rain of Brass Petals (3 Vocals)</label>
+    <clipPath>MusicExpanded/SH3/9.06 - Rain of Brass Petals (3 Vocals)</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_001</defName>
+    <label>Silent Hill- Silent Hill</label>
+    <clipPath>MusicExpanded/SH1/1.01 - Silent Hill</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_002</defName>
+    <label>Silent Hill- Arrival</label>
+    <clipPath>MusicExpanded/SH1/1.02 - Arrival</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_003</defName>
+    <label>Silent Hill- Led into Madness</label>
+    <clipPath>MusicExpanded/SH1/1.03 - Led into Madness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_004</defName>
+    <label>Silent Hill- Meeting Cybil</label>
+    <clipPath>MusicExpanded/SH1/1.04 - Meeting Cybil</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_005</defName>
+    <label>Silent Hill- No Dream</label>
+    <clipPath>MusicExpanded/SH1/1.05 - No Dream</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_006</defName>
+    <label>Silent Hill- Darkness Falls Again</label>
+    <clipPath>MusicExpanded/SH1/1.06 - Darkness Falls Again</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_007</defName>
+    <label>Silent Hill- Running in the Hallways</label>
+    <clipPath>MusicExpanded/SH1/1.07 - Running in the Hallways</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_008</defName>
+    <label>Silent Hill- The Clock Passage</label>
+    <clipPath>MusicExpanded/SH1/1.08 - The Clock Passage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_009</defName>
+    <label>Silent Hill- Midwich Nightmare</label>
+    <clipPath>MusicExpanded/SH1/1.09 - Midwich Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_010</defName>
+    <label>Silent Hill- The Beast</label>
+    <clipPath>MusicExpanded/SH1/1.10 - The Beast</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_011</defName>
+    <label>Silent Hill- Apparition</label>
+    <clipPath>MusicExpanded/SH1/1.11 - Apparition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_012</defName>
+    <label>Silent Hill- Morning Recess</label>
+    <clipPath>MusicExpanded/SH1/2.01 - Morning Recess</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_013</defName>
+    <label>Silent Hill- Woman at the Altar</label>
+    <clipPath>MusicExpanded/SH1/2.02 - Woman at the Altar</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_014</defName>
+    <label>Silent Hill- Sermon</label>
+    <clipPath>MusicExpanded/SH1/2.03 - Sermon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_015</defName>
+    <label>Silent Hill- Silent Streets</label>
+    <clipPath>MusicExpanded/SH1/2.04 - Silent Streets</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_016</defName>
+    <label>Silent Hill- The Police Station</label>
+    <clipPath>MusicExpanded/SH1/2.05 - The Police Station</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_017</defName>
+    <label>Silent Hill- Another Survivor</label>
+    <clipPath>MusicExpanded/SH1/2.06 - Another Survivor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_018</defName>
+    <label>Silent Hill- Dr. Kaufmann</label>
+    <clipPath>MusicExpanded/SH1/2.07 - Dr. Kaufmann</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_019</defName>
+    <label>Silent Hill- Alchemilla Echoes</label>
+    <clipPath>MusicExpanded/SH1/2.08 - Alchemilla Echoes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_020</defName>
+    <label>Silent Hill- The Generator</label>
+    <clipPath>MusicExpanded/SH1/2.09 - The Generator</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_021</defName>
+    <label>Silent Hill- Code Blue</label>
+    <clipPath>MusicExpanded/SH1/2.10 - Code Blue</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_022</defName>
+    <label>Silent Hill- Shadows in the Basement</label>
+    <clipPath>MusicExpanded/SH1/2.11 - Shadows in the Basement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_023</defName>
+    <label>Silent Hill- Rescued</label>
+    <clipPath>MusicExpanded/SH1/2.12 - Rescued</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_024</defName>
+    <label>Silent Hill- Dahlia's Guidance</label>
+    <clipPath>MusicExpanded/SH1/2.13 - Dahlias Guidance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_025</defName>
+    <label>Silent Hill- Path of Torment</label>
+    <clipPath>MusicExpanded/SH1/3.01 - Path of Torment</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_026</defName>
+    <label>Silent Hill- Cybil Returns</label>
+    <clipPath>MusicExpanded/SH1/3.02 - Cybil Returns</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_027</defName>
+    <label>Silent Hill- Secret Shrine</label>
+    <clipPath>MusicExpanded/SH1/3.03 - Secret Shrine</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_028</defName>
+    <label>Silent Hill- Shopping Maul</label>
+    <clipPath>MusicExpanded/SH1/3.04 - Shopping Maul</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_029</defName>
+    <label>Silent Hill- Wormsign</label>
+    <clipPath>MusicExpanded/SH1/3.05 - Wormsign</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_030</defName>
+    <label>Silent Hill- Bad to Worse</label>
+    <clipPath>MusicExpanded/SH1/3.06 - Bad to Worse</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_031</defName>
+    <label>Silent Hill- Another Way</label>
+    <clipPath>MusicExpanded/SH1/3.07 - Another Way</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_032</defName>
+    <label>Silent Hill- Before the Storm</label>
+    <clipPath>MusicExpanded/SH1/3.08 - Before the Storm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_033</defName>
+    <label>Silent Hill- Floatstung</label>
+    <clipPath>MusicExpanded/SH1/3.09 - Floatstung</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_034</defName>
+    <label>Silent Hill- The Sewer Passage</label>
+    <clipPath>MusicExpanded/SH1/4.01 - The Sewer Passage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_035</defName>
+    <label>Silent Hill- Night Owl</label>
+    <clipPath>MusicExpanded/SH1/4.02 - Night Owl</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_036</defName>
+    <label>Silent Hill- Screamer's Revenge</label>
+    <clipPath>MusicExpanded/SH1/4.03 - Screamer's Revenge</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_037</defName>
+    <label>Silent Hill- Rust &amp; Darkness</label>
+    <clipPath>MusicExpanded/SH1/4.04 - Rust &amp; Darkness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_038</defName>
+    <label>Silent Hill- The Boat Meeting</label>
+    <clipPath>MusicExpanded/SH1/4.05 - The Boat Meeting</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_039</defName>
+    <label>Silent Hill- Pier 666</label>
+    <clipPath>MusicExpanded/SH1/4.06 - Pier 666</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_040</defName>
+    <label>Silent Hill- Sealed Fate</label>
+    <clipPath>MusicExpanded/SH1/4.07 - Sealed Fate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_041</defName>
+    <label>Silent Hill- Urgency</label>
+    <clipPath>MusicExpanded/SH1/5.01 - Urgency</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_042</defName>
+    <label>Silent Hill- Filth &amp; Pain</label>
+    <clipPath>MusicExpanded/SH1/5.02 - Filth &amp; Pain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_043</defName>
+    <label>Silent Hill- Sickly Fairground</label>
+    <clipPath>MusicExpanded/SH1/5.03 - Sickly Fairground</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_044</defName>
+    <label>Silent Hill- A Joyful Ride</label>
+    <clipPath>MusicExpanded/SH1/5.04 - A Joyful Ride</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_045</defName>
+    <label>Silent Hill- Carousel Battle</label>
+    <clipPath>MusicExpanded/SH1/5.05 - Carousel Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_046</defName>
+    <label>Silent Hill- Expelled</label>
+    <clipPath>MusicExpanded/SH1/5.06 - Expelled</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_047</defName>
+    <label>Silent Hill- Confronting Alessa</label>
+    <clipPath>MusicExpanded/SH1/5.07 - Confronting Alessa</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_048</defName>
+    <label>Silent Hill- Dahlia's Turn</label>
+    <clipPath>MusicExpanded/SH1/5.08 - Dahlias Turn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_049</defName>
+    <label>Silent Hill- Arriving Nowhere</label>
+    <clipPath>MusicExpanded/SH1/6.01 - Arriving Nowhere</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_050</defName>
+    <label>Silent Hill- Lisa's Confession</label>
+    <clipPath>MusicExpanded/SH1/6.02 - Lisa's Confession</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_051</defName>
+    <label>Silent Hill- Summoned</label>
+    <clipPath>MusicExpanded/SH1/6.03 - Summoned</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_052</defName>
+    <label>Silent Hill- Amalgam of Fear</label>
+    <clipPath>MusicExpanded/SH1/6.04 - Amalgam of Fear</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_053</defName>
+    <label>Silent Hill- Acceptance</label>
+    <clipPath>MusicExpanded/SH1/6.05 - Acceptance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_054</defName>
+    <label>Silent Hill- Tears of Blood</label>
+    <clipPath>MusicExpanded/SH1/6.06 - Tears of Blood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_055</defName>
+    <label>Silent Hill- Further Down</label>
+    <clipPath>MusicExpanded/SH1/6.07 - Further Down</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_056</defName>
+    <label>Silent Hill- Shedded Light</label>
+    <clipPath>MusicExpanded/SH1/6.08 - Shedded Light</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_057</defName>
+    <label>Silent Hill- The Final Lock</label>
+    <clipPath>MusicExpanded/SH1/6.09 - The Final Lock</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_058</defName>
+    <label>Silent Hill- Metamorphosis</label>
+    <clipPath>MusicExpanded/SH1/6.10 - Metamorphosis</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_059</defName>
+    <label>Silent Hill- Incubus</label>
+    <clipPath>MusicExpanded/SH1/6.11 - Incubus</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_060</defName>
+    <label>Silent Hill- Alessa's Gift</label>
+    <clipPath>MusicExpanded/SH1/7.01 - Alessa's Gift</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_061</defName>
+    <label>Silent Hill- Running Out</label>
+    <clipPath>MusicExpanded/SH1/7.02 - Running Out</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>HateChanters</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_062</defName>
+    <label>Silent Hill- Tears of...</label>
+    <clipPath>MusicExpanded/SH1/7.03 - Tears of...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_063</defName>
+    <label>Silent Hill- New Life</label>
+    <clipPath>MusicExpanded/SH1/7.04 - New Life</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>DeathPall</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_064</defName>
+    <label>Silent Hill- Killing Time</label>
+    <clipPath>MusicExpanded/SH1/7.05 - Killing Time</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>FleshbeastAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_065</defName>
+    <label>Silent Hill- She</label>
+    <clipPath>MusicExpanded/SH1/7.06 - She</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>GorehulkAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_066</defName>
+    <label>Silent Hill- Esperаndote</label>
+    <clipPath>MusicExpanded/SH1/7.07 - Esperаndote</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_067</defName>
+    <label>Silent Hill- Silent Hill (Otherside)</label>
+    <clipPath>MusicExpanded/SH1/7.08 - Silent Hill (Otherside)</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>DevourerWaterAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_068</defName>
+    <label>Silent Hill- Results</label>
+    <clipPath>MusicExpanded/SH1/7.09 - Results</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>CorruptedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_069</defName>
+    <label>Silent Hill- Azusa Igo</label>
+    <clipPath>MusicExpanded/SH1/8.01 - Azusa Igo</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>ShamblerSwarmAnimals</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_070</defName>
+    <label>Silent Hill- Silent Hill (estudio)</label>
+    <clipPath>MusicExpanded/SH1/8.02 - Silent Hill (estudio)</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_071</defName>
+    <label>Silent Hill- Anaconda</label>
+    <clipPath>MusicExpanded/SH1/8.03 - Anaconda</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH1_072</defName>
+    <label>Silent Hill- Tussock</label>
+    <clipPath>MusicExpanded/SH1/8.04 - Tussock</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>MetalHorrorImplantation</cueData>
+  </MusicExpanded.TrackDef>
+</Defs>

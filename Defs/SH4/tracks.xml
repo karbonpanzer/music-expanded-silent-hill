@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_001</defName>
+    <label>Silent Hill 4- Main Menu (The Last Mariachi)</label>
+    <clipPath>MusicExpanded/SH4/1.01 - Main Menu (The Last Mariachi)</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_002</defName>
+    <label>Silent Hill 4- Game Start</label>
+    <clipPath>MusicExpanded/SH4/1.02 - Game Start</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_003</defName>
+    <label>Silent Hill 4- Starting Credits (Room of Angel)</label>
+    <clipPath>MusicExpanded/SH4/1.03 - Starting Credits (Room of Angel)</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_004</defName>
+    <label>Silent Hill 4- The Hole</label>
+    <clipPath>MusicExpanded/SH4/1.04 - The Hole</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_005</defName>
+    <label>Silent Hill 4- Sounds of The Hole</label>
+    <clipPath>MusicExpanded/SH4/1.05 - Sounds of The Hole</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_006</defName>
+    <label>Silent Hill 4- Going Back Through Hole</label>
+    <clipPath>MusicExpanded/SH4/1.06 - Going Back Through Hole</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_007</defName>
+    <label>Silent Hill 4- The Beginning of A Nightmare</label>
+    <clipPath>MusicExpanded/SH4/1.07 - The Beginning of A Nightmare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_008</defName>
+    <label>Silent Hill 4- The Fear of Pain</label>
+    <clipPath>MusicExpanded/SH4/1.08 - The Fear of Pain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_009</defName>
+    <label>Silent Hill 4- Darkness Consumes</label>
+    <clipPath>MusicExpanded/SH4/1.09 - Darkness Consumes</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Anomaly_ShamblerAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_010</defName>
+    <label>Silent Hill 4- Heartless Vibes</label>
+    <clipPath>MusicExpanded/SH4/1.10 - Heartless Vibes</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Anomaly_GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_011</defName>
+    <label>Silent Hill 4- The Fear of Pain (Alternate)</label>
+    <clipPath>MusicExpanded/SH4/1.11 - The Fear of Pain (Alternate)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_012</defName>
+    <label>Silent Hill 4- Echo Through The Night</label>
+    <clipPath>MusicExpanded/SH4/1.12 - Echo Through The Night</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_013</defName>
+    <label>Silent Hill 4- Abandon Silence</label>
+    <clipPath>MusicExpanded/SH4/1.13 - Abandon Silence</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_014</defName>
+    <label>Silent Hill 4- Watchful Eyes From Above</label>
+    <clipPath>MusicExpanded/SH4/1.14 - Watchful Eyes From Above</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_015</defName>
+    <label>Silent Hill 4- Cricket Ambience</label>
+    <clipPath>MusicExpanded/SH4/1.15 - Cricket Ambience</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_016</defName>
+    <label>Silent Hill 4- Entrapped Pulse</label>
+    <clipPath>MusicExpanded/SH4/1.16 - Entrapped Pulse</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_017</defName>
+    <label>Silent Hill 4- Twisted Emotions</label>
+    <clipPath>MusicExpanded/SH4/1.17 - Twisted Emotions</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Anomaly_ChimeraAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_018</defName>
+    <label>Silent Hill 4- Covered Fog</label>
+    <clipPath>MusicExpanded/SH4/1.18 - Covered Fog</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_019</defName>
+    <label>Silent Hill 4- Dry Water</label>
+    <clipPath>MusicExpanded/SH4/1.19 - Dry Water</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_020</defName>
+    <label>Silent Hill 4- Wall Snatchers</label>
+    <clipPath>MusicExpanded/SH4/1.20 - Wall Snatchers</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>Anomaly_FleshbeastAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_021</defName>
+    <label>Silent Hill 4- Prison Watchers</label>
+    <clipPath>MusicExpanded/SH4/1.21 - Prison Watchers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_022</defName>
+    <label>Silent Hill 4- They Wait Below</label>
+    <clipPath>MusicExpanded/SH4/1.22 - They Wait Below</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_023</defName>
+    <label>Silent Hill 4- Water Wheel</label>
+    <clipPath>MusicExpanded/SH4/1.23 - Water Wheel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_024</defName>
+    <label>Silent Hill 4- Power Room</label>
+    <clipPath>MusicExpanded/SH4/1.24 - Power Room</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_025</defName>
+    <label>Silent Hill 4- Leaky Prison</label>
+    <clipPath>MusicExpanded/SH4/1.25 - Leaky Prison</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_026</defName>
+    <label>Silent Hill 4- Loud Awakening</label>
+    <clipPath>MusicExpanded/SH4/1.26 - Loud Awakening</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_027</defName>
+    <label>Silent Hill 4- Busy Alley</label>
+    <clipPath>MusicExpanded/SH4/1.27 - Busy Alley</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_028</defName>
+    <label>Silent Hill 4- Steel Insanity</label>
+    <clipPath>MusicExpanded/SH4/1.28 - Steel Insanity</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_029</defName>
+    <label>Silent Hill 4- Delusional Thoughts</label>
+    <clipPath>MusicExpanded/SH4/1.29 - Delusional Thoughts</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_030</defName>
+    <label>Silent Hill 4- Unbalanced</label>
+    <clipPath>MusicExpanded/SH4/1.30 - Unbalanced</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>Anomaly_GorehulkAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_031</defName>
+    <label>Silent Hill 4- Uncertain Feeling</label>
+    <clipPath>MusicExpanded/SH4/1.31 - Uncertain Feeling</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_032</defName>
+    <label>Silent Hill 4- Fear of Heights</label>
+    <clipPath>MusicExpanded/SH4/1.32 - Fear of Heights</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_033</defName>
+    <label>Silent Hill 4- Fan Shadow</label>
+    <clipPath>MusicExpanded/SH4/1.33 - Fan Shadow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_034</defName>
+    <label>Silent Hill 4- Disrupted Complex</label>
+    <clipPath>MusicExpanded/SH4/1.34 - Disrupted Complex</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_035</defName>
+    <label>Silent Hill 4- Intruders</label>
+    <clipPath>MusicExpanded/SH4/1.35 - Intruders</clipPath>
+    <cue>Custom,BattleLarge</cue>
+    <cueData>Anomaly_DevourerAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_036</defName>
+    <label>Silent Hill 4- Favoring Papers</label>
+    <clipPath>MusicExpanded/SH4/1.36 - Favoring Papers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_037</defName>
+    <label>Silent Hill 4- Intruders (Alternate)</label>
+    <clipPath>MusicExpanded/SH4/1.37 - Intruders (Alternate)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_038</defName>
+    <label>Silent Hill 4- Elieen's Next</label>
+    <clipPath>MusicExpanded/SH4/1.38 - Elieen's Next</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_039</defName>
+    <label>Silent Hill 4- Disturbing Image</label>
+    <clipPath>MusicExpanded/SH4/1.39 - Disturbing Image</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_040</defName>
+    <label>Silent Hill 4- Blood-Stained Bed</label>
+    <clipPath>MusicExpanded/SH4/1.40 - Blood-Stained Bed</clipPath>
+    <cue>Custom,BattleLegendary</cue>
+    <cueData>Anomaly_DeathPall</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_041</defName>
+    <label>Silent Hill 4- Protected Hallway</label>
+    <clipPath>MusicExpanded/SH4/1.41 - Protected Hallway</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_042</defName>
+    <label>Silent Hill 4- Sterile</label>
+    <clipPath>MusicExpanded/SH4/1.42 - Sterile</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_043</defName>
+    <label>Silent Hill 4- The Chained Bed</label>
+    <clipPath>MusicExpanded/SH4/1.43 - The Chained Bed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_044</defName>
+    <label>Silent Hill 4- Torn Umbilical</label>
+    <clipPath>MusicExpanded/SH4/1.44 - Torn Umbilical</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_045</defName>
+    <label>Silent Hill 4- Ceiling Above</label>
+    <clipPath>MusicExpanded/SH4/1.45 - Ceiling Above</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_046</defName>
+    <label>Silent Hill 4- Soaked Floor</label>
+    <clipPath>MusicExpanded/SH4/1.46 - Soaked Floor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_047</defName>
+    <label>Silent Hill 4- Dirty Presense</label>
+    <clipPath>MusicExpanded/SH4/1.47 - Dirty Presense</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_048</defName>
+    <label>Silent Hill 4- Body Sticks</label>
+    <clipPath>MusicExpanded/SH4/1.48 - Body Sticks</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_049</defName>
+    <label>Silent Hill 4- The Long Staircase Into The Abyss</label>
+    <clipPath>MusicExpanded/SH4/1.49 - The Long Staircase Into The Abyss</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_050</defName>
+    <label>Silent Hill 4- Separation of Worlds</label>
+    <clipPath>MusicExpanded/SH4/1.50 - Separation of Worlds</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_051</defName>
+    <label>Silent Hill 4- The Hole Is Bigger</label>
+    <clipPath>MusicExpanded/SH4/2.01 - The Hole Is Bigger</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>Anomaly_SightstealerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_052</defName>
+    <label>Silent Hill 4- Another Hole</label>
+    <clipPath>MusicExpanded/SH4/2.02 - Another Hole</clipPath>
+    <cue>Custom,BattleMedium</cue>
+    <cueData>Anomaly_FleshbeastAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_053</defName>
+    <label>Silent Hill 4- 16121</label>
+    <clipPath>MusicExpanded/SH4/2.03 - 16121</clipPath>
+    <cue>Custom,BattleLarge</cue>
+    <cueData>Anomaly_HateChanters</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_054</defName>
+    <label>Silent Hill 4- Underbelly</label>
+    <clipPath>MusicExpanded/SH4/2.04 - Underbelly</clipPath>
+    <cue>Custom,BattleLarge</cue>
+    <cueData>Anomaly_ChimeraAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_055</defName>
+    <label>Silent Hill 4- Slither</label>
+    <clipPath>MusicExpanded/SH4/2.05 - Slither</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Anomaly_MetalHorrorImplantation</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_056</defName>
+    <label>Silent Hill 4- 17121</label>
+    <clipPath>MusicExpanded/SH4/2.06 - 17121</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_057</defName>
+    <label>Silent Hill 4- Stuck Ceiling</label>
+    <clipPath>MusicExpanded/SH4/2.07 - Stuck Ceiling</clipPath>
+    <cue>Custom,BattleLegendary</cue>
+    <cueData>Anomaly_Revenant</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_058</defName>
+    <label>Silent Hill 4- Ruined Building</label>
+    <clipPath>MusicExpanded/SH4/2.08 - Ruined Building</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_059</defName>
+    <label>Silent Hill 4- Walter’s Appearance</label>
+    <clipPath>MusicExpanded/SH4/2.09 - Walters Appearance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_060</defName>
+    <label>Silent Hill 4- 18121</label>
+    <clipPath>MusicExpanded/SH4/2.10 - 18121</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_061</defName>
+    <label>Silent Hill 4- Residue</label>
+    <clipPath>MusicExpanded/SH4/2.11 - Residue</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_062</defName>
+    <label>Silent Hill 4- 11121</label>
+    <clipPath>MusicExpanded/SH4/2.12 - 11121</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_063</defName>
+    <label>Silent Hill 4- Disturbing Peace</label>
+    <clipPath>MusicExpanded/SH4/2.13 - Disturbing Peace</clipPath>
+    <cue>Custom,BattleLegendary</cue>
+    <cueData>Anomaly_FrenziedAnimals</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_064</defName>
+    <label>Silent Hill 4- Empty Sorrow</label>
+    <clipPath>MusicExpanded/SH4/2.14 - Empty Sorrow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_065</defName>
+    <label>Silent Hill 4- Stairway of Silence</label>
+    <clipPath>MusicExpanded/SH4/2.15 - Stairway of Silence</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_066</defName>
+    <label>Silent Hill 4- Pets</label>
+    <clipPath>MusicExpanded/SH4/2.16 - Pets</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_067</defName>
+    <label>Silent Hill 4- The One Truth</label>
+    <clipPath>MusicExpanded/SH4/2.17 - The One Truth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_068</defName>
+    <label>Silent Hill 4- Decomposed Apartment</label>
+    <clipPath>MusicExpanded/SH4/2.18 - Decomposed Apartment</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_069</defName>
+    <label>Silent Hill 4- Ill Fate</label>
+    <clipPath>MusicExpanded/SH4/2.19 - Ill Fate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_070</defName>
+    <label>Silent Hill 4- Memories</label>
+    <clipPath>MusicExpanded/SH4/2.20 - Memories</clipPath>
+    <cue>Custom,BattleSmall</cue>
+    <cueData>Anomaly_ShamblerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_071</defName>
+    <label>Silent Hill 4- Descending</label>
+    <clipPath>MusicExpanded/SH4/2.21 - Descending</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_072</defName>
+    <label>Silent Hill 4- Blood Red</label>
+    <clipPath>MusicExpanded/SH4/2.22 - Blood Red</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_073</defName>
+    <label>Silent Hill 4- Final Boss</label>
+    <clipPath>MusicExpanded/SH4/2.23 - Final Boss</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>SH4_074</defName>
+    <label>Silent Hill 4- Results</label>
+    <clipPath>MusicExpanded/SH4/2.24 - Results</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>
